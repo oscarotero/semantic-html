@@ -56,4 +56,4 @@
 
 ---
 
-* [Quoting and citing with <blockquote>, <q>, <cite>, and the cite attribute](http://html5doctor.com/blockquote-q-cite/)
+* [Quoting and citing](http://html5doctor.com/blockquote-q-cite/)
