@@ -2,9 +2,13 @@
 
 Collection of semantic html use cases:
 
+* [Contact](html/contact.md)
 * [Conversations](html/conversations.md)
+* [Glosario](html/glosario.md)
 * [Headers](html/headers.md)
+* [License](html/license.md)
 * [Quotes](html/quotes.md)
+* [Range input](html/range-input.md)
 * [Scalar values](html/scalar-values.md)
 
 --- 

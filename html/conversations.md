@@ -11,13 +11,13 @@
 <p><b>Abbott:</b> Every dollar of it.</p>
 ```
 
-## Chat conversation with timestamps
+## Chat conversation with time
 ```html
-<p><data value="1319898155">14:22</data> <b>egof</b> I’m not that nerdy, I’ve only seen 30% of the star trek episodes</p>
-<p><data value="1319898192">14:23</data> <b>kaj</b> if you know what percentage of the star trek episodes you have seen, you are inarguably nerdy</p>
-<p><data value="1319898200">14:23</data> <b>egof</b> it’s unarguably</p>
-<p><data value="1319898228">14:23</data> <i>* kaj blinks</i></p>
-<p><data value="1319898260">14:24</data> <b>kaj</b> you are not helping your case</p>
+<p><time>14:22</time> <b>egof</b> I’m not that nerdy, I’ve only seen 30% of the star trek episodes</p>
+<p><time>14:23</time> <b>kaj</b> if you know what percentage of the star trek episodes you have seen, you are inarguably nerdy</p>
+<p><time>14:23</time> <b>egof</b> it’s unarguably</p>
+<p><time>14:23</time> <i>* kaj blinks</i></p>
+<p><time>14:24</time> <b>kaj</b> you are not helping your case</p>
 ```
 
 ---
