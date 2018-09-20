@@ -2,12 +2,16 @@
 
 ## Simple license
 ```html
-This article is licensed under a <small>Creative Commons Attribution Share-alike license</small>
+<p>
+    <small>This article is licensed under a Creative Commons Attribution Share-alike license</small>
+</p>
 ```
 
 ## License with link
 ```html
-This article is licensed under a <small><a rel="license" href="http://creativecommons.org/licenses/by-sa/3.0/">Creative Commons Attribution Share-alike license</a></small>
+<p>
+    <small>This article is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/3.0/">Creative Commons Attribution Share-alike license</a></small>
+</p>
 ```
 
 ---
