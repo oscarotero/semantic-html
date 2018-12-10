@@ -1,6 +1,7 @@
 # Contact
 
 ## Email or social networks links
+
 ```html
 <address>
     <a href="mailto:info@example.com">info@example.com</a>,

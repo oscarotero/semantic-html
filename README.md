@@ -2,6 +2,7 @@
 
 Collection of semantic html use cases:
 
+* [Address](html/address.md)
 * [Contact](html/contact.md)
 * [Conversations](html/conversations.md)
 * [Glosario](html/glosario.md)
