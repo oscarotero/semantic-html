@@ -32,3 +32,4 @@
 ---
 
 * [Marking up forms and reporting violations of forms](http://mars.dequecloud.com/demo/form-markup.htm)
+* [Semantic markup for fieldset alternative](https://stackoverflow.com/questions/48413847/semantic-markup-for-fieldset-alternative)
