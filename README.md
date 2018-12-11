@@ -7,7 +7,7 @@ Collection of semantic html use cases:
 * [Buttons](html/buttons.md)
 * [Contact](html/contact.md)
 * [Conversations](html/conversations.md)
-* [Footnotes](html/foodnotes.md)
+* [Footnotes](html/footnotes.md)
 * [Form fields](html/form-fields.md)
 * [Glosary](html/glosary.md)
 * [Headers](html/headers.md)
