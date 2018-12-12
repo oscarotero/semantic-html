@@ -4,8 +4,8 @@
 
 ```html
 <form role="search">
-  <input type="search" aria-label="search text" size="20">
-  <button type="submit">Search<button>
+    <input type="search" aria-label="search text" size="20">
+    <button type="submit">Search<button>
 </form> 
 ```
 
