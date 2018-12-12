@@ -5,6 +5,13 @@
 <label>The airport is  <input type="text" name="miles" size="3" value="8">  miles away.</label>
 ```
 
+## Field with error message
+```html
+<label for="username">Username</label>
+<input type="text" name="username" id="username" aria-invalid="true" aria-describedBy="error">
+<strong id="error">The username is incorrect</strong>
+```
+
 ## Multi-part fields
 ```html
 <div role="group" aria-labelledby="label">
@@ -33,3 +40,5 @@
 
 * [Marking up forms and reporting violations of forms](http://mars.dequecloud.com/demo/form-markup.htm)
 * [Semantic markup for fieldset alternative](https://stackoverflow.com/questions/48413847/semantic-markup-for-fieldset-alternative)
+* [Semantic input error message inside label](https://stackoverflow.com/questions/46656151/semantic-input-error-message-inside-label)
+* [ARIA21: Using Aria-Invalid to Indicate An Error Field](https://www.w3.org/TR/2016/NOTE-WCAG20-TECHS-20161007/ARIA21#ARIA21-description)
