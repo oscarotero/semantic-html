@@ -19,7 +19,8 @@ Collection of semantic html use cases:
 * [Range input](html/range-input.md)
 * [Scalar values](html/scalar-values.md)
 * [Search](html/search.md)
+* [Testimonials](html/testimonials.md)
 
---- 
+---
 
 Contributions like issues or pull request are highly appreciated.
