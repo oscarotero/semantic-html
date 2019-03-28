@@ -3,6 +3,7 @@
 Collection of semantic html use cases:
 
 * [Address](html/address.md)
+* [Abbreviations and acronyms](html/abbreviation.md)
 * [Breadcrumb](html/breadcrumb.md)
 * [Buttons](html/buttons.md)
 * [Contact](html/contact.md)
