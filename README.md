@@ -2,8 +2,9 @@
 
 Collection of semantic html use cases:
 
-* [Address](html/address.md)
 * [Abbreviations and acronyms](html/abbreviation.md)
+* [Accordion](html/accordion.md)
+* [Address](html/address.md)
 * [Breadcrumb](html/breadcrumb.md)
 * [Buttons](html/buttons.md)
 * [Contact](html/contact.md)
@@ -21,6 +22,6 @@ Collection of semantic html use cases:
 * [Scalar values](html/scalar-values.md)
 * [Search](html/search.md)
 
---- 
+---
 
 Contributions like issues or pull request are highly appreciated.
