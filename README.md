@@ -2,6 +2,8 @@
 
 Collection of semantic html use cases:
 
+* [Page](html/page.md). Minimum html code required for any webpage
+
 * [Abbreviations and acronyms](html/abbreviation.md)
 * [Accordion](html/accordion.md)
 * [Address](html/address.md)
@@ -15,6 +17,7 @@ Collection of semantic html use cases:
 * [Headers](html/headers.md)
 * [Language switcher](html/language-switcher.md)
 * [License](html/license.md)
+* [Menu](html/menu.md)
 * [Metadata](html/metadata.md)
 * [Product list](html/product-list.md)
 * [Quotes](html/quotes.md)
