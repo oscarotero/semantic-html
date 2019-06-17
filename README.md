@@ -1,6 +1,6 @@
 # Semantic HTML
 
-Collection of semantic html use cases:
+Collection of semantic and accessible html use cases:
 
 * [Page](html/page.md). Minimum html code required for any webpage
 
@@ -19,6 +19,7 @@ Collection of semantic html use cases:
 * [License](html/license.md)
 * [Menu](html/menu.md)
 * [Metadata](html/metadata.md)
+* [Pagination](html/pagination.md)
 * [Product list](html/product-list.md)
 * [Quotes](html/quotes.md)
 * [Range input](html/range-input.md)

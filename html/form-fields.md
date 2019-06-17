@@ -5,6 +5,13 @@
 <label>The airport is  <input type="text" name="miles" size="3" value="8">  miles away.</label>
 ```
 
+## Field with help text
+```html
+<label for="username">Username</label>
+<input type="text" name="username" id="username" aria-invalid="false" aria-describedBy="help">
+<span id="help">Enter your user name</span>
+```
+
 ## Field with error message
 ```html
 <label for="username">Username</label>

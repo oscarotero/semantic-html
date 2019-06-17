@@ -8,7 +8,7 @@ The link to `#main` is the current page, so it works as a skip link.
 <nav aria-label="Main menu">
     <ul>
         <li><a href="/">Home</a></li>
-        <li><a href="#main">About us</a></li>
+        <li><a href="#main" aria-current="page">About us</a></li>
         <li><a href="/services">Services</a></li>
         <li><a href="/projects">Projects</a></li>
         <li><a href="/contact">Contact</a></li>
@@ -29,7 +29,7 @@ Note: this approach requires javascript to show/hide the list on click the butto
 
     <ul id="menu-list" hidden>
         <li><a href="/">Home</a></li>
-        <li><a href="#main">About us</a></li>
+        <li><a href="#main" aria-current="page">About us</a></li>
         <li><a href="/services">Services</a></li>
         <li><a href="/projects">Projects</a></li>
         <li><a href="/contact">Contact</a></li>
