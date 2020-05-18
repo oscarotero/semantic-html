@@ -25,3 +25,4 @@
 ---
 
 * [Common idioms without dedicated elements](https://www.w3.org/TR/html5/common-idioms-without-dedicated-elements.html#footnotes)
+* [About the Footnotes](https://daringfireball.net/2005/07/footnotes)
