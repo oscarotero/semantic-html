@@ -20,6 +20,7 @@ Collection of semantic and accessible html use cases:
 * [Menu](html/menu.md)
 * [Metadata](html/metadata.md)
 * [Pagination](html/pagination.md)
+* [Passwords in forms](html/passwords-forms.md)
 * [Product list](html/product-list.md)
 * [Quotes](html/quotes.md)
 * [Range input](html/range-input.md)
