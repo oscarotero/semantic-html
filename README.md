@@ -3,14 +3,15 @@
 Collection of semantic and accessible html use cases:
 
 * [Page](html/page.md). Minimum html code required for any webpage
-
 * [Abbreviations and acronyms](html/abbreviation.md)
 * [Accordion](html/accordion.md)
 * [Address](html/address.md)
 * [Breadcrumb](html/breadcrumb.md)
 * [Buttons](html/buttons.md)
+* [Command line interfaces](html/cli.md)
 * [Contact](html/contact.md)
 * [Conversations](html/conversations.md)
+* [Creative work](html/creative-work.md)
 * [Footnotes](html/footnotes.md)
 * [Form fields](html/form-fields.md)
 * [Glosary](html/glosary.md)
