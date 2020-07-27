@@ -16,6 +16,7 @@ Collection of semantic and accessible html use cases:
 * [Form fields](html/form-fields.md)
 * [Glosary](html/glosary.md)
 * [Headers](html/headers.md)
+* [Hidden elements](html/hidden-elements.md)
 * [Language switcher](html/language-switcher.md)
 * [License](html/license.md)
 * [Menu](html/menu.md)
