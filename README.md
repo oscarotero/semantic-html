@@ -17,6 +17,7 @@ Collection of semantic and accessible html use cases:
 * [Glosary](html/glosary.md)
 * [Headers](html/headers.md)
 * [Hidden elements](html/hidden-elements.md)
+* [Icon link](html/icon-link.md)
 * [Language switcher](html/language-switcher.md)
 * [License](html/license.md)
 * [Menu](html/menu.md)
