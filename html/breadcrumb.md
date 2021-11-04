@@ -16,8 +16,9 @@
 
 ## Alternative version
 
-This version uses a `<p>` instead of `<ul>` for the links (from WHATWG). Useful
-if you have more than one path:
+This version uses a `<p>` instead of `<ul>` for the links
+([taken from WHATWG](https://html.spec.whatwg.org/multipage/semantics-other.html#bread-crumb-navigation)).
+Useful if you have more than one path:
 
 ```html
 <nav aria-labelledby="breadcrumb">
