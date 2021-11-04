@@ -18,7 +18,8 @@ The link to `#main` is the current page, so it works as a skip link.
 
 ## Menu with button to show/hide
 
-Note: this approach requires javascript to show/hide the list on click the button
+Note: this approach requires javascript to show/hide the list on click the
+button
 
 ```html
 <nav aria-label="Main menu">
@@ -39,4 +40,4 @@ Note: this approach requires javascript to show/hide the list on click the butto
 
 ---
 
-* [Patrones diseño inclusivos - Víctor Rodríguez](https://youtu.be/B2vbQ57Tf-c)
+- [Patrones diseño inclusivos - Víctor Rodríguez](https://youtu.be/B2vbQ57Tf-c)

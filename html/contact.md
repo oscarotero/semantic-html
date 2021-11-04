@@ -11,4 +11,4 @@
 
 ---
 
-* [The Address Element](http://html5doctor.com/the-address-element/)
+- [The Address Element](http://html5doctor.com/the-address-element/)

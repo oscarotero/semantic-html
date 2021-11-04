@@ -1,6 +1,7 @@
 # Pagination
 
 ## Simple pagination with next/prev pages
+
 ```html
 <nav aria-label="You are in page 2">
     <a href="page1" rel="prev">Previous page (1)</a>
@@ -9,6 +10,7 @@
 ```
 
 ## Pagination with a map of pages
+
 ```html
 <nav aria-label="You are in page 2">
     <ul>
@@ -23,4 +25,4 @@
 
 ---
 
-* [A11y pagination](https://a11y-style-guide.com/style-guide/section-navigation.html)
+- [A11y pagination](https://a11y-style-guide.com/style-guide/section-navigation.html)

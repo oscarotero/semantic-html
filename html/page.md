@@ -27,29 +27,31 @@ Minimum html needed for any html page:
 
 ## `lang` attribute
 
-* Help the browser to choose a font that support that language
-* Screen readers use this value to select the right voice syntetizer
-* Improve content indexing
-* Useful for users using Google Translate
+- Help the browser to choose a font that support that language
+- Screen readers use this value to select the right voice syntetizer
+- Improve content indexing
+- Useful for users using Google Translate
 
 ## `viewport` config
 
-* Make the web responsive, so it can ve viewed in a smartphone allowing zoom.
+- Make the web responsive, so it can ve viewed in a smartphone allowing zoom.
 
 ## `title` element
 
-* Must contain the name of the document in an accessible way, using the pattern `page description | site name`.
+- Must contain the name of the document in an accessible way, using the pattern
+  `page description | site name`.
 
 ## Skip link
 
-* A hidden link, only visible on focus, that allows to jump directly into the main region.
+- A hidden link, only visible on focus, that allows to jump directly into the
+  main region.
 
 ## `main` element
 
-* Only one `main` element in the page.
-* Determines the main content of the page.
-* Screen readers can jump directly into this region.
-* A useful tip for printing:
+- Only one `main` element in the page.
+- Determines the main content of the page.
+- Screen readers can jump directly into this region.
+- A useful tip for printing:
   ```css
   @media print {
       body > *:not(main) {
@@ -60,4 +62,4 @@ Minimum html needed for any html page:
 
 ## `h1` element
 
-* Screen readers can jump directly into this element.
+- Screen readers can jump directly into this element.

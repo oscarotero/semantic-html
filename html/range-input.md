@@ -1,6 +1,7 @@
 # Range input
 
 ## Display the selected value
+
 ```html
 <form>
     <label for="flying">Flying Skill Level</label>
@@ -8,8 +9,9 @@
     <output for="flying" name="level">0</output>/100
 </form>
 ```
+
 Note: javascript is required to update dinamically the `<output>` value
 
 ---
 
-* [The output element](http://html5doctor.com/the-output-element/)
+- [The output element](http://html5doctor.com/the-output-element/)

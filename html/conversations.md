@@ -1,6 +1,7 @@
 # Conversations
 
 ## Simple conversation
+
 ```html
 <p><b>Costello:</b> Look, you gotta first baseman?</p>
 <p><b>Abbott:</b> Certainly.</p>
@@ -12,6 +13,7 @@
 ```
 
 ## Chat conversation with time
+
 ```html
 <p><time>14:22</time> <b>egof</b> I’m not that nerdy, I’ve only seen 30% of the star trek episodes</p>
 <p><time>14:23</time> <b>kaj</b> if you know what percentage of the star trek episodes you have seen, you are inarguably nerdy</p>
@@ -22,4 +24,4 @@
 
 ---
 
-* [Common idioms without dedicated elements](http://w3c.github.io/html/common-idioms-without-dedicated-elements.html#conversations)
+- [Common idioms without dedicated elements](http://w3c.github.io/html/common-idioms-without-dedicated-elements.html#conversations)

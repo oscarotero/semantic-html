@@ -1,6 +1,7 @@
 # Metadata
 
 ## Content metadata
+
 ```html
 <dl>
     <dt>Authors:</dt>
@@ -17,4 +18,4 @@
 
 ---
 
-* [The dl element](http://html5doctor.com/the-dl-element/)
+- [The dl element](http://html5doctor.com/the-dl-element/)

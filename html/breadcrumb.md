@@ -1,6 +1,7 @@
 # Breadcrumb
 
 ## Breadcrumb navigation
+
 ```html
 <nav aria-labelledby="breadcrumb">
     <h1 id="breadcrumb">You are here:</h1>
@@ -15,8 +16,8 @@
 
 ## Alternative version
 
-This version uses a `<p>` instead of `<ul>` for the links (from WHATWG).
-Useful if you have more than one path:
+This version uses a `<p>` instead of `<ul>` for the links (from WHATWG). Useful
+if you have more than one path:
 
 ```html
 <nav aria-labelledby="breadcrumb">
@@ -37,5 +38,5 @@ Useful if you have more than one path:
 
 ---
 
-* [Common idioms without dedicated elements](https://www.w3.org/TR/html5/common-idioms-without-dedicated-elements.html#bread-crumb-navigation)
-* [Patrones diseño inclusivos - Víctor Rodríguez](https://youtu.be/B2vbQ57Tf-c)
+- [Common idioms without dedicated elements](https://www.w3.org/TR/html5/common-idioms-without-dedicated-elements.html#bread-crumb-navigation)
+- [Patrones diseño inclusivos - Víctor Rodríguez](https://youtu.be/B2vbQ57Tf-c)

@@ -1,16 +1,19 @@
 # Quotes
 
 ## Inline quote
+
 ```html
 <p>Like Hamlet says, <q>To be or not to be</q></p>
 ```
 
 ## Inline quote with url for the cite:
+
 ```html
 <p>Like Hamlet says, <q cite="http://example.com">To be or not to be</q></p>
 ```
 
 ## Simple block quote
+
 ```html
 <blockquote>
     <p>To be or not to be</p>
@@ -18,6 +21,7 @@
 ```
 
 ## Block quote with url for the cite
+
 ```html
 <blockquote cite="http://example.com">
     <p>To be or not to be</p>
@@ -25,6 +29,7 @@
 ```
 
 ## Block quote with visible cite
+
 ```html
 <blockquote>
     <p>To be or not to be</p>
@@ -33,6 +38,7 @@
 ```
 
 ## Block quote with many visible cites
+
 ```html
 <blockquote>
     <p>To be or not to be</p>
@@ -43,6 +49,7 @@
 ```
 
 ### Alternative version inside a figure
+
 ```html
 <figure>
     <blockquote>
@@ -56,4 +63,4 @@
 
 ---
 
-* [Quoting and citing](http://html5doctor.com/blockquote-q-cite/)
+- [Quoting and citing](http://html5doctor.com/blockquote-q-cite/)

@@ -21,6 +21,7 @@ Use `autocomplete="new-password"`
     <input type="password" id="user-password" autocomplete="new-password" required>
 </form>
 ```
+
 ---
 
-* [MDN: Allowing autocomplete](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/input/password#Allowing_autocomplete)
+- [MDN: Allowing autocomplete](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/input/password#Allowing_autocomplete)

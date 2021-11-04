@@ -1,6 +1,7 @@
 # Headers
 
 ## Simple header
+
 ```html
 <header>
     <h1>This is the title</h1>
@@ -10,4 +11,4 @@
 
 ---
 
-* [doc-subtitle source](https://twitter.com/stevefaulkner/status/1236241209686966272)
+- [doc-subtitle source](https://twitter.com/stevefaulkner/status/1236241209686966272)

@@ -19,6 +19,7 @@ Including the user input (with `kbd`) and sofware output:
 Already up to date.
 </samp></pre>
 ```
+
 ---
 
-* [The Sample Output element](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/samp)
+- [The Sample Output element](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/samp)

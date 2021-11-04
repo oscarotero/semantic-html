@@ -1,6 +1,7 @@
 # Language switcher
 
 ## Menu to choose the language of the document
+
 ```html
 <nav>
     <h1>Translations of this page</h1>
@@ -14,4 +15,4 @@
 
 ---
 
-* [Semantic markup for language switcher](https://stackoverflow.com/a/20157416)
+- [Semantic markup for language switcher](https://stackoverflow.com/a/20157416)

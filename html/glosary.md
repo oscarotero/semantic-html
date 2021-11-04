@@ -1,6 +1,7 @@
 # Glosary
 
 ## Simple glosary
+
 ```html
 <aside>
     <h3>Glossary</h3>
@@ -26,4 +27,4 @@
 
 ---
 
-* [The dl element](http://html5doctor.com/the-dl-element/)
+- [The dl element](http://html5doctor.com/the-dl-element/)

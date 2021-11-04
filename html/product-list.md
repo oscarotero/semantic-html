@@ -3,6 +3,7 @@
 List of any entity (products, posts, etc)
 
 ## Entity list
+
 ```html
 <ul>
     <li>
@@ -24,4 +25,4 @@ List of any entity (products, posts, etc)
 
 ---
 
-* [Which HTML5 tags are semantically correct to represent e-commerce products?](https://stackoverflow.com/questions/46259821/which-html5-tags-are-semantically-correct-to-represent-e-commerce-products)
+- [Which HTML5 tags are semantically correct to represent e-commerce products?](https://stackoverflow.com/questions/46259821/which-html5-tags-are-semantically-correct-to-represent-e-commerce-products)

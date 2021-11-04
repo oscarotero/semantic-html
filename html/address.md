@@ -13,4 +13,4 @@
 
 ---
 
-* [Markup for postal addresses](https://stackoverflow.com/a/26188004)
+- [Markup for postal addresses](https://stackoverflow.com/a/26188004)

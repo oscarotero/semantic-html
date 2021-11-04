@@ -1,6 +1,8 @@
 # Abbreviation and acronyms
 
-Provide an expansion of the abbreviation/acronym, neuronym even, in plain text on first use, use an <abbr> to mark up the abbreviation, which provides a hint to user agents on how to announce/display the content
+Provide an expansion of the abbreviation/acronym, neuronym even, in plain text
+on first use, use an <abbr> to mark up the abbreviation, which provides a hint
+to user agents on how to announce/display the content
 
 ```html
 <p>
@@ -14,4 +16,4 @@ Provide an expansion of the abbreviation/acronym, neuronym even, in plain text o
 
 ---
 
-* [Short note: The abbreviation appreciation society](https://developer.paciellogroup.com/blog/2019/03/short-note-the-abbreviation-appreciation-society/)
+- [Short note: The abbreviation appreciation society](https://developer.paciellogroup.com/blog/2019/03/short-note-the-abbreviation-appreciation-society/)
