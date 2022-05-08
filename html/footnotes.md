@@ -7,7 +7,7 @@
 <p><b>Norman:</b> I don’t. <sup><a href="#fn1" id="r1">[1]</a></sup></p>
 <p><b>Interviewer:</b> You told me you did!</p>
 
-<section>
+<section role="note">
     <p id="fn1"><a href="#r1">[1]</a> This is, naturally, a lie, but paradoxically if it were true he could not say so without contradicting the interviewer and thus making it false.</p>
 </section>
 ```
