@@ -20,6 +20,7 @@ Collection of semantic and accessible html use cases:
 - [Icon link](html/icon-link.md)
 - [Language switcher](html/language-switcher.md)
 - [License](html/license.md)
+- [List](html/list.md)
 - [Menu](html/menu.md)
 - [Metadata](html/metadata.md)
 - [Pagination](html/pagination.md)
