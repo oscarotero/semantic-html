@@ -22,7 +22,8 @@
 
 ## Unstyled list of elements
 
-If the list is styled with `list-style: none`, the `role="list"` attribute must be added due the Safari behavior.
+If the list is styled with `list-style: none`, the `role="list"` attribute must
+be added due the Safari behavior.
 
 ```html
 <style>

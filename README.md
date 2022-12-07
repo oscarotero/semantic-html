@@ -30,6 +30,7 @@ Collection of semantic and accessible html use cases:
 - [Range input](html/range-input.md)
 - [Scalar values](html/scalar-values.md)
 - [Search](html/search.md)
+- [Tables](html/tables.md)
 
 ---
 
