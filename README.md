@@ -34,4 +34,9 @@ Collection of semantic and accessible html use cases:
 
 ---
 
+Useful links:
+- https://developer.mozilla.org/en-US/docs/Web/HTML/Attributes/autocomplete
+
+---
+
 Contributions like issues or pull request are highly appreciated.
