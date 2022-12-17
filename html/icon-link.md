@@ -32,5 +32,5 @@
 
 ---
 
-[Accesible icon links](https://hugogiraudel.com/2020/12/10/accessible-icon-links/)
-[Buttons and the Baader–Meinhof phenomenon](https://www.matuzo.at/blog/2022/button-baader/)
+- [Accesible icon links](https://hugogiraudel.com/2020/12/10/accessible-icon-links/)
+- [Buttons and the Baader–Meinhof phenomenon](https://www.matuzo.at/blog/2022/button-baader/)
