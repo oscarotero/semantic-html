@@ -36,6 +36,7 @@ Collection of semantic and accessible html use cases:
 
 Useful links:
 - https://developer.mozilla.org/en-US/docs/Web/HTML/Attributes/autocomplete
+- https://www.htmhell.dev/adventcalendar/2023/8/
 
 ---
 
