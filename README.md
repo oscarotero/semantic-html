@@ -1,6 +1,6 @@
 # Semantic HTML
 
-Collection of semantic and accessible html use cases:
+Collection of semantic and accessible HTML patterns:
 
 - [Page](html/page.md). Minimum html code required for any webpage
 - [Abbreviations and acronyms](html/abbreviation.md)
