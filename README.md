@@ -23,6 +23,7 @@ Collection of semantic and accessible HTML patterns:
 - [List](html/list.md)
 - [Menu](html/menu.md)
 - [Metadata](html/metadata.md)
+- [Payment form](html/payment-form.md)
 - [Pagination](html/pagination.md)
 - [Passwords in forms](html/passwords-forms.md)
 - [Product list](html/product-list.md)
@@ -35,6 +36,7 @@ Collection of semantic and accessible HTML patterns:
 ---
 
 Useful links:
+
 - https://developer.mozilla.org/en-US/docs/Web/HTML/Attributes/autocomplete
 - https://www.htmhell.dev/adventcalendar/2023/8/
 
