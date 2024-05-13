@@ -2,7 +2,8 @@
 
 ## Using a `<header>`
 
-We can use the `<header>` element as long as it is NOT a descendant of `<aside>`, `<article>`, `<main>`, `<nav>`, or `<section>`.
+We can use the `<header>` element as long as it is NOT a descendant of
+`<aside>`, `<article>`, `<main>`, `<nav>`, or `<section>`.
 
 ```html
 <body>
@@ -18,9 +19,13 @@ We can use the `<header>` element as long as it is NOT a descendant of `<aside>`
 
 ## Using `role="banner"`
 
-If it's not possible to use a `<header>` element because it's a descendant of `<aside>`, `<article>`, `<main>`, `<nav>`, or `<section>`, we can use ARIA roles.
+If it's not possible to use a `<header>` element because it's a descendant of
+`<aside>`, `<article>`, `<main>`, `<nav>`, or `<section>`, we can use ARIA
+roles.
 
-The *banner* role is for defining a global site header, which usually includes a logo, company name, search feature, and possibly the global navigation or a slogan.
+The _banner_ role is for defining a global site header, which usually includes a
+logo, company name, search feature, and possibly the global navigation or a
+slogan.
 
 ```html
 <body>
