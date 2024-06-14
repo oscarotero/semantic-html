@@ -13,6 +13,7 @@ Collection of semantic and accessible HTML patterns:
 - [Conversations](html/conversations.md)
 - [Cookies banner](html/cookies-banner.md)
 - [Creative work](html/creative-work.md)
+- [Credit card form](html/credit-card.md)
 - [Footnotes](html/footnotes.md)
 - [Form fields](html/form-fields.md)
 - [Glosary](html/glosary.md)
