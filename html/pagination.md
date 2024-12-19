@@ -9,6 +9,18 @@
 </nav>
 ```
 
+## Disabled links
+
+The proper way to [disable a link](https://www.scottohara.me/blog/2021/05/28/disabled-links.html):
+
+```html
+<nav aria-label="You are in page 2">
+    <a role="link" aria-disabled="true">Previous page</a>
+    <a href="page2" rel="next">Next page (2)</a>
+</nav>
+```
+
+
 ## Pagination with a map of pages
 
 ```html
@@ -26,3 +38,5 @@
 ---
 
 - [A11y pagination](https://a11y-style-guide.com/style-guide/section-navigation.html)
+- [Page by Page: How Pagination Makes the Web Accessible](https://htmhell.dev/adventcalendar/2024/14/)
+- [Disabling a link](https://www.scottohara.me/blog/2021/05/28/disabled-links.html)
