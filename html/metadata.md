@@ -4,15 +4,15 @@
 
 ```html
 <dl>
-    <dt>Authors:</dt>
-    <dd>Remy Sharp</dd>
-    <dd>Rich Clark</dd>
+  <dt>Authors:</dt>
+  <dd>Remy Sharp</dd>
+  <dd>Rich Clark</dd>
 
-    <dt>Editor:</dt>
-    <dd>Brandan Lennox</dd>
+  <dt>Editor:</dt>
+  <dd>Brandan Lennox</dd>
 
-    <dt>Category:</dt>
-    <dd>Comment</dd>
+  <dt>Category:</dt>
+  <dd>Comment</dd>
 </dl>
 ```
 

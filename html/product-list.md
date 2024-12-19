@@ -6,20 +6,20 @@ List of any entity (products, posts, etc)
 
 ```html
 <ul>
-    <li>
-        <article>
-            <a href="product.html" rel="bookmark">
-                <!-- Article content -->
-            </a>
-        </article>
-    </li>
-    <li>
-        <article>
-            <a href="product.html" rel="bookmark">
-                <!-- Article content -->
-            </a>
-        </article>
-    </li>
+  <li>
+    <article>
+      <a href="product.html" rel="bookmark">
+        <!-- Article content -->
+      </a>
+    </article>
+  </li>
+  <li>
+    <article>
+      <a href="product.html" rel="bookmark">
+        <!-- Article content -->
+      </a>
+    </article>
+  </li>
 </ul>
 ```
 

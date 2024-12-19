@@ -7,7 +7,8 @@
   name="card-holder"
   id="card-holder"
   autocomplete="cc-name"
-  required>
+  required
+>
 
 <label for="card-number">Card number</label>
 <input
@@ -16,7 +17,8 @@
   name="card-number"
   id="card-number"
   autocomplete="cc-number"
-  required>
+  required
+>
 
 <label for="card-expiration-month">Card expiration month</label>
 <input
@@ -27,7 +29,8 @@
   name="card-expiration-month"
   id="card-expiration-month"
   autocomplete="cc-exp-month"
-  required>
+  required
+>
 
 <label for="card-expiration-year">Card expiration year</label>
 <input
@@ -38,7 +41,8 @@
   id="card-expiration-year"
   name="card-expiration-year"
   autocomplete="cc-exp-year"
-  required>
+  required
+>
 
 <label for="card-cvv">CVV</label>
 <input
@@ -49,7 +53,8 @@
   name="card-cvv"
   id="card-cvv"
   autocomplete="cc-csc"
-  required>
+  required
+>
 ```
 
 ## Alternative for expiration date
@@ -64,7 +69,8 @@
   name="card-expiration"
   id="card-expiration"
   autocomplete="cc-exp"
-  required>
+  required
+>
 ```
 
 ---

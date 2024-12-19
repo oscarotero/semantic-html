@@ -39,7 +39,11 @@ How to reference a creative work such:
 ## Reference a book with a link
 
 ```html
-<p>The book <cite><a href="https://en.wikipedia.org/wiki/Mr._Penumbra's_24-Hour_Bookstore">Mr. Penumbra's 24-Hour Bookstore</a></cite> is good.</p>
+<p>
+  The book <cite><a
+      href="https://en.wikipedia.org/wiki/Mr._Penumbra's_24-Hour_Bookstore"
+    >Mr. Penumbra's 24-Hour Bookstore</a></cite> is good.
+</p>
 ```
 
 ---

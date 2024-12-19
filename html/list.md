@@ -45,7 +45,7 @@ be added due the Safari behavior.
 <dl>
   <dt>Name</dt>
   <dd>Óscar</dd>
-  
+
   <dt>Surname</dt>
   <dd>Otero</dd>
 </dl>
@@ -59,7 +59,7 @@ Alternative version for styling purposes:
     <dt>Name</dt>
     <dd>Óscar</dd>
   </div>
-  
+
   <div>
     <dt>Surname</dt>
     <dd>Otero</dd>

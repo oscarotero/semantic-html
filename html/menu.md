@@ -6,13 +6,13 @@ The link to `#main` is the current page, so it works as a skip link.
 
 ```html
 <nav aria-label="Main menu">
-    <ul>
-        <li><a href="/">Home</a></li>
-        <li><a href="#main" aria-current="page">About us</a></li>
-        <li><a href="/services">Services</a></li>
-        <li><a href="/projects">Projects</a></li>
-        <li><a href="/contact">Contact</a></li>
-    </ul>
+  <ul>
+    <li><a href="/">Home</a></li>
+    <li><a href="#main" aria-current="page">About us</a></li>
+    <li><a href="/services">Services</a></li>
+    <li><a href="/projects">Projects</a></li>
+    <li><a href="/contact">Contact</a></li>
+  </ul>
 </nav>
 ```
 
@@ -23,18 +23,18 @@ button
 
 ```html
 <nav aria-label="Main menu">
-    <button aria-expanded="false">
-        <svg>...</svg>
-        Menu
-    </button>
+  <button aria-expanded="false">
+    <svg>...</svg>
+    Menu
+  </button>
 
-    <ul id="menu-list" hidden>
-        <li><a href="/">Home</a></li>
-        <li><a href="#main" aria-current="page">About us</a></li>
-        <li><a href="/services">Services</a></li>
-        <li><a href="/projects">Projects</a></li>
-        <li><a href="/contact">Contact</a></li>
-    </ul>
+  <ul id="menu-list" hidden>
+    <li><a href="/">Home</a></li>
+    <li><a href="#main" aria-current="page">About us</a></li>
+    <li><a href="/services">Services</a></li>
+    <li><a href="/projects">Projects</a></li>
+    <li><a href="/contact">Contact</a></li>
+  </ul>
 </nav>
 ```
 

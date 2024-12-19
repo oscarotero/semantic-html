@@ -4,8 +4,8 @@
 
 ```html
 <header>
-    <h1>This is the title</h1>
-    <p role="doc-subtitle">This is the subtitle</p>
+  <h1>This is the title</h1>
+  <p role="doc-subtitle">This is the subtitle</p>
 </header>
 ```
 

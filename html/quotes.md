@@ -16,7 +16,7 @@
 
 ```html
 <blockquote>
-    <p>To be or not to be</p>
+  <p>To be or not to be</p>
 </blockquote>
 ```
 
@@ -24,7 +24,7 @@
 
 ```html
 <blockquote cite="http://example.com">
-    <p>To be or not to be</p>
+  <p>To be or not to be</p>
 </blockquote>
 ```
 
@@ -32,8 +32,8 @@
 
 ```html
 <blockquote>
-    <p>To be or not to be</p>
-    <cite>Prince Hamlet</cite>
+  <p>To be or not to be</p>
+  <cite>Prince Hamlet</cite>
 </blockquote>
 ```
 
@@ -41,10 +41,11 @@
 
 ```html
 <blockquote>
-    <p>To be or not to be</p>
-    <footer>
-        <cite>Prince Hamlet</cite> in <cite>Hamlet</cite>, by <cite>William Shakespeare</cite>
-    </footer>
+  <p>To be or not to be</p>
+  <footer>
+    <cite>Prince Hamlet</cite> in <cite>Hamlet</cite>, by <cite>William
+      Shakespeare</cite>
+  </footer>
 </blockquote>
 ```
 
@@ -52,12 +53,13 @@
 
 ```html
 <figure>
-    <blockquote>
-        <p>To be or not to be</p>
-    </blockquote>
-    <figcaption>
-        <cite>Prince Hamlet</cite> in <cite>Hamlet</cite>, by <cite>William Shakespeare</cite>
-    </figcaption>
+  <blockquote>
+    <p>To be or not to be</p>
+  </blockquote>
+  <figcaption>
+    <cite>Prince Hamlet</cite> in <cite>Hamlet</cite>, by <cite>William
+      Shakespeare</cite>
+  </figcaption>
 </figure>
 ```
 

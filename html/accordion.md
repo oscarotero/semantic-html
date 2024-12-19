@@ -4,7 +4,7 @@
 
 ```html
 <details>
-    This is a simple details content
+  This is a simple details content
 </details>
 ```
 
@@ -12,8 +12,8 @@
 
 ```html
 <details>
-    <summary>View all details</summary>
-    This is a details content with custom summary
+  <summary>View all details</summary>
+  This is a details content with custom summary
 </details>
 ```
 
@@ -21,7 +21,7 @@
 
 ```html
 <details open>
-    This is a simple details content
+  This is a simple details content
 </details>
 ```
 

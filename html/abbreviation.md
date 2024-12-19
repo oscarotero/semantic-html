@@ -6,11 +6,14 @@ to user agents on how to announce/display the content
 
 ```html
 <p>
-    <abbr>FWIW</abbr> (For what it's worth) I often get the following confused: <abbr>WTF</abbr> and <abbr>FTW</abbr>.
+  <abbr>FWIW</abbr> (For what it's worth) I often get the following confused:
+  <abbr>WTF</abbr> and <abbr>FTW</abbr>.
 </p>
 
 <p>
-    By providing a plain text expansion besides the acronyms, myself and probably others, are less confused by the jargon. Thus improving usability and <abbr>a11y</abbr> (accessibility).
+  By providing a plain text expansion besides the acronyms, myself and probably
+  others, are less confused by the jargon. Thus improving usability and <abbr
+  >a11y</abbr> (accessibility).
 </p>
 ```
 

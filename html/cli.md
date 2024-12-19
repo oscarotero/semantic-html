@@ -14,7 +14,8 @@
 Including the user input (with `kbd`) and sofware output:
 
 ```html
-<pre><samp>
+<pre>
+<samp>
 <kbd>git pull origin master</kbd>
 Already up to date.
 </samp></pre>

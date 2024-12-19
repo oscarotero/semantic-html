@@ -4,8 +4,8 @@
 
 ```html
 <address>
-    <a href="mailto:info@example.com">info@example.com</a>,
-    <a href="https://twitter.com/example">@example</a>
+  <a href="mailto:info@example.com">info@example.com</a>,
+  <a href="https://twitter.com/example">@example</a>
 </address>
 ```
 

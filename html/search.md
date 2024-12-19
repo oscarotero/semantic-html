@@ -13,10 +13,15 @@
 
 ```html
 <search>
-    <form>
-        <input type="search" aria-label="search text" size="20" enterkeyhint="search">
-        <button type="submit">Search</button>
-    </form>
+  <form>
+    <input
+      type="search"
+      aria-label="search text"
+      size="20"
+      enterkeyhint="search"
+    >
+    <button type="submit">Search</button>
+  </form>
 </search>
 ```
 

@@ -4,13 +4,13 @@
 
 ```html
 <nav aria-labelledby="breadcrumb">
-    <h1 id="breadcrumb">You are here:</h1>
-    <ul id="breadcrump-list">
-        <li><a href="/">Main</a> →</li>
-        <li><a href="/products/">Products</a> →</li>
-        <li><a href="/products/dishwashers/">Dishwashers</a> →</li>
-        <li><a>Second hand</a></li>
-    </ul>
+  <h1 id="breadcrumb">You are here:</h1>
+  <ul id="breadcrump-list">
+    <li><a href="/">Main</a> →</li>
+    <li><a href="/products/">Products</a> →</li>
+    <li><a href="/products/dishwashers/">Dishwashers</a> →</li>
+    <li><a>Second hand</a></li>
+  </ul>
 </nav>
 ```
 
@@ -22,18 +22,18 @@ Useful if you have more than one path:
 
 ```html
 <nav aria-labelledby="breadcrumb">
-    <h1 id="breadcrumb">You are here:</h1>
-    <p>
-        <a href="/">Main</a> ▸
-        <a href="/products/">Products</a> ▸
-        <a href="/products/dishwashers/">Dishwashers</a> ▸
-        <a>Second hand</a>
-    </p>
-    <p>
-        <a href="/">Main</a> ▸
-        <a href="/second-hand/">Second hand</a> ▸
-        <a>Dishwashers</a>
-    </p>
+  <h1 id="breadcrumb">You are here:</h1>
+  <p>
+    <a href="/">Main</a> ▸
+    <a href="/products/">Products</a> ▸
+    <a href="/products/dishwashers/">Dishwashers</a> ▸
+    <a>Second hand</a>
+  </p>
+  <p>
+    <a href="/">Main</a> ▸
+    <a href="/second-hand/">Second hand</a> ▸
+    <a>Dishwashers</a>
+  </p>
 </nav>
 ```
 

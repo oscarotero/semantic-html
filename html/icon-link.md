@@ -3,7 +3,11 @@
 ## Icon only link
 
 ```html
-<a href="https://twitter.com/misteroom" title="Follow me on Twitter" aria-label="Follow me on Twitter">
+<a
+  href="https://twitter.com/misteroom"
+  title="Follow me on Twitter"
+  aria-label="Follow me on Twitter"
+>
   <svg
     aria-hidden="true"
     focusable="false"

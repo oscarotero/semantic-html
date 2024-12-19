@@ -8,7 +8,7 @@
     <h2>Top 10 best-selling albums of all time</h2>
   </caption>
 
-   <!-- Table markup -->
+  <!-- Table markup -->
 </table>
 ```
 
@@ -32,7 +32,12 @@ The `tabindex` is needed for keyboard navigation:
     <h2>Top 10 best-selling albums of all time</h2>
   </figcaption>
 
-  <div class="table-wrapper" role="group" aria-labelledby="caption" tabindex="0">
+  <div
+    class="table-wrapper"
+    role="group"
+    aria-labelledby="caption"
+    tabindex="0"
+  >
     <table><!-- Table markup --></table>
   </div>
 </figure>

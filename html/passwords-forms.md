@@ -6,8 +6,13 @@ Use `autocomplete="current-password"`
 
 ```html
 <form>
-    <label for="user-password">Password:</label>
-    <input type="password" id="user-password" autocomplete="current-password" required>
+  <label for="user-password">Password:</label>
+  <input
+    type="password"
+    id="user-password"
+    autocomplete="current-password"
+    required
+  >
 </form>
 ```
 
@@ -17,8 +22,13 @@ Use `autocomplete="new-password"`
 
 ```html
 <form>
-    <label for="user-password">New password:</label>
-    <input type="password" id="user-password" autocomplete="new-password" required>
+  <label for="user-password">New password:</label>
+  <input
+    type="password"
+    id="user-password"
+    autocomplete="new-password"
+    required
+  >
 </form>
 ```
 

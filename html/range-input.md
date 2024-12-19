@@ -4,9 +4,9 @@
 
 ```html
 <form>
-    <label for="flying">Flying Skill Level</label>
-    <input name="flevel" id="flying" type="range" min="0" max="100" value="0">
-    <output for="flying" name="level">0</output>/100
+  <label for="flying">Flying Skill Level</label>
+  <input name="flevel" id="flying" type="range" min="0" max="100" value="0">
+  <output for="flying" name="level">0</output>/100
 </form>
 ```
 

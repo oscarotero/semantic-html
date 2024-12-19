@@ -3,13 +3,17 @@
 ## Task related values
 
 ```html
-Loading: <progress min="0" max="100" value="56">loaded 56% of the content</progress>
+Loading: <progress min="0" max="100" value="56">
+  loaded 56% of the content
+</progress>
 ```
 
 ## Not task related values
 
 ```html
-Disc space: <meter min="0" max="100" value="56">using 56% of the total space available</meter>
+Disc space: <meter min="0" max="100" value="56">
+  using 56% of the total space available
+</meter>
 ```
 
 ## Voting or rating

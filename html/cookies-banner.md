@@ -4,7 +4,7 @@ Show a banner asking to manage cookies:
 
 ```html
 <div role="region" aria-label="Manage Cookies">
-…
+  …
 </div>
 ```
 
