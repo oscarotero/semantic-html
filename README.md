@@ -19,7 +19,7 @@ Collection of semantic and accessible HTML patterns:
 - [Glosary](html/glosary.md)
 - [Headers](html/headers.md)
 - [Hidden elements](html/hidden-elements.md)
-- [Icon link](html/icon-link.md)
+- [Icon link & buttons](html/icon-link.md)
 - [Language switcher](html/language-switcher.md)
 - [License](html/license.md)
 - [List](html/list.md)
