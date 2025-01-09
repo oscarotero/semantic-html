@@ -35,6 +35,21 @@
 <strong id="error">The username is incorrect</strong>
 ```
 
+## Field with `pattern`
+
+Use the `title` attribute to customize the error message.
+
+```html
+<label for="name">Name</label>
+<input
+  type="text"
+  name="name"
+  id="name"
+  pattern="Bob [A-Za-z].+"
+  title="The name must start with 'Bob '"
+>
+```
+
 ## Multi-part fields
 
 ```html
@@ -71,3 +86,4 @@
 - [Semantic markup for fieldset alternative](https://stackoverflow.com/questions/48413847/semantic-markup-for-fieldset-alternative)
 - [Semantic input error message inside label](https://stackoverflow.com/questions/46656151/semantic-input-error-message-inside-label)
 - [ARIA21: Using Aria-Invalid to Indicate An Error Field](https://www.w3.org/TR/2016/NOTE-WCAG20-TECHS-20161007/ARIA21#ARIA21-description)
+- [Lesser Known Uses Of Better Known Attributes](https://www.smashingmagazine.com/2025/01/lesser-known-uses-better-known-attributes/)

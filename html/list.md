@@ -10,6 +10,19 @@
 </ol>
 ```
 
+## List of ordered elements starting from a different number than 1
+
+```html
+<ol>
+  <li>One</li>
+  <li>Two</li>
+  <li>Three</li>
+  <li value="10">Ten</li>
+  <li>Eleven</li>
+  <li>Twelve</li>
+</ol>
+```
+
 ## List of unordered elements
 
 ```html
@@ -69,4 +82,5 @@ Alternative version for styling purposes:
 
 ---
 
-["Fixing" Lists](https://www.scottohara.me/blog/2019/01/12/lists-and-safari.html)
+- ["Fixing" Lists](https://www.scottohara.me/blog/2019/01/12/lists-and-safari.html)
+- [Lesser Known Uses Of Better Known Attributes](https://www.smashingmagazine.com/2025/01/lesser-known-uses-better-known-attributes/)

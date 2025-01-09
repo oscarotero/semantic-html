@@ -10,6 +10,7 @@ Collection of semantic and accessible HTML patterns:
 - [Buttons](html/buttons.md)
 - [Command line interfaces](html/cli.md)
 - [Contact](html/contact.md)
+- [Content changes](html/content-changes.md)
 - [Conversations](html/conversations.md)
 - [Cookies banner](html/cookies-banner.md)
 - [Creative work](html/creative-work.md)
