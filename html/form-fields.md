@@ -73,8 +73,8 @@ Use the `title` attribute to customize the error message.
   <span id="label">Credit Card Type:</span>
   <span>
     <label><input type="radio" name="cct" value="visa"> Visa</label>
-    <label><input type="radio" name="cct" value="mastercard"> Master Card</label
-    >
+    <label><input type="radio" name="cct" value="mastercard"> Master
+      Card</label>
     <label><input type="radio" name="cct" value="other"> Other</label>
   </span>
 </div>

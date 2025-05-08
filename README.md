@@ -24,6 +24,7 @@ Collection of semantic and accessible HTML patterns:
 - [Language switcher](html/language-switcher.md)
 - [License](html/license.md)
 - [List](html/list.md)
+- [Menu](html/menu.md)
 - [Metadata](html/metadata.md)
 - [Navigation](html/navigation.md)
 - [Payment form](html/payment-form.md)
