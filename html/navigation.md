@@ -1,4 +1,4 @@
-# Menu
+# Navigation
 
 ## Simple visible menu
 

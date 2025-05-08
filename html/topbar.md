@@ -1,4 +1,4 @@
-# Navbar
+# Top bar
 
 ## Using a `<header>`
 

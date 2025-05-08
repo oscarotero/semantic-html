@@ -24,9 +24,8 @@ Collection of semantic and accessible HTML patterns:
 - [Language switcher](html/language-switcher.md)
 - [License](html/license.md)
 - [List](html/list.md)
-- [Menu](html/menu.md)
 - [Metadata](html/metadata.md)
-- [Navigation bar](html/navbar.md)
+- [Navigation](html/navigation.md)
 - [Payment form](html/payment-form.md)
 - [Pagination](html/pagination.md)
 - [Passwords in forms](html/passwords-forms.md)
@@ -36,6 +35,7 @@ Collection of semantic and accessible HTML patterns:
 - [Scalar values](html/scalar-values.md)
 - [Search](html/search.md)
 - [Tables](html/tables.md)
+- [Top bar](html/topbar.md)
 
 ---
 
