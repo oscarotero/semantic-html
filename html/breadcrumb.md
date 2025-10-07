@@ -5,7 +5,7 @@
 ```html
 <nav aria-labelledby="breadcrumb">
   <h1 id="breadcrumb">You are here:</h1>
-  <ul id="breadcrump-list">
+  <ul id="breadcrumb-list">
     <li><a href="/">Main</a> →</li>
     <li><a href="/products/">Products</a> →</li>
     <li><a href="/products/dishwashers/">Dishwashers</a> →</li>
