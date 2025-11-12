@@ -32,6 +32,28 @@ Use `autocomplete="new-password"`
 </form>
 ```
 
+## One-Time Passcode
+
+Example with numeric passcode but can be adapted to alphanumeric values.
+
+```html
+<form>
+  <label for="user-password">
+    Enter the 6-digit numeric code sent to +1 (555) 555-5555
+  </label>
+  <input
+    type="text"
+    id="user-password"
+    inputmode="numeric"
+    autocomplete="one-time-code"
+    maxlength="6"
+    pattern="\d{6}"
+    required
+  >
+</form>
+```
+
 ---
 
 - [MDN: Allowing autocomplete](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/input/password#Allowing_autocomplete)
+- [Simple One-Time Passcode Inputs](https://cloudfour.com/thinks/simple-one-time-passcode-inputs/)
