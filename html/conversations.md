@@ -20,7 +20,8 @@
 ```html
 <p>
   <time>14:22</time>
-  <b>egof</b> I’m not that nerdy, I’ve only seen 30% of the star trek episodes
+  <b>egof</b> I’m not that nerdy, I’ve only seen 30% of the star trek
+  episodes
 </p>
 <p>
   <time>14:23</time>

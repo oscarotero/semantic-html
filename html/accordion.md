@@ -41,8 +41,8 @@
 
 <details name="refrigerator">
   <summary>Refrigerator 3</summary>
-  Cookie dough someone bought from somebody’s child’s fundraiser, expired milk,
-  unidentifiable meat et al.
+  Cookie dough someone bought from somebody’s child’s fundraiser, expired
+  milk, unidentifiable meat et al.
 </details>
 ```
 

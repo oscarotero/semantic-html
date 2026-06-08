@@ -1,49 +1,69 @@
-# Tables
+# Tabs
 
-## With a A11y friendly title
-
-```html
-<table>
-  <caption>
-    <h2>Top 10 best-selling albums of all time</h2>
-  </caption>
-
-  <!-- Table markup -->
-</table>
-```
-
-Alternative version using a `figure` and `figcaption`:
+## Accessible tabs
 
 ```html
-<figure>
-  <figcaption id="caption">Top 10 best-selling albums of all time</figcaption>
-  <table aria-labelledby="caption">
-    <!-- Table markup -->
-  </table>
-</figure>
-```
-
-If we want to make the table scrollable, we can use a `div` to wrap the `table`.
-The `tabindex` is needed for keyboard navigation:
-
-```html
-<figure>
-  <figcaption id="caption">
-    <h2>Top 10 best-selling albums of all time</h2>
-  </figcaption>
-
-  <div
-    class="table-wrapper"
-    role="group"
-    aria-labelledby="caption"
-    tabindex="0"
-  >
-    <table><!-- Table markup --></table>
+<div role="region">
+  <div role="tablist">
+    <button role="tab" id="tab1" aria-selected="true">
+      Section 1
+    </button>
+    <button role="tab" id="tab2">
+      Section 2
+    </button>
+    <button role="tab" id="tab3">
+      Section 3
+    </button>
   </div>
-</figure>
+
+  <section role="tabpanel" id="section1" aria-labelledby="tab1">
+    Content section 1
+  </section>
+
+  <section role="tabpanel" id="section2" aria-labelledby="tab2">
+    Content section 2
+  </section>
+
+  <section role="tabpanel" id="section3" aria-labelledby="tab3">
+    Content section 3
+  </section>
+</div>
 ```
 
----
+## Using anchors
 
-- [Accessible front-end patterns for responsive tables](https://www.smashingmagazine.com/2022/12/accessible-front-end-patterns-responsive-tables-part1/)
-- [Pure CSS scrolling shadows](https://lea.verou.me/2012/04/background-attachment-local/)
+The same code but using anchors for progressive enhancement:
+
+```html
+<div role="region">
+  <ul role="tablist">
+    <li role="presentation">
+      <a role="tab" id="tab1" href="#section1" aria-selected="true">
+        Section 1
+      </a>
+    </li>
+    <li role="presentation">
+      <a role="tab" id="tab2" href="#section2">
+        Section 2
+      </a>
+    </li>
+    <li role="presentation">
+      <a role="tab" id="tab3" href="#section3">
+        Section 3
+      </a>
+    </li>
+  </ul>
+
+  <section role="tabpanel" id="section1" aria-labelledby="tab1">
+    Content section 1
+  </section>
+
+  <section role="tabpanel" id="section2" aria-labelledby="tab2">
+    Content section 2
+  </section>
+
+  <section role="tabpanel" id="section3" aria-labelledby="tab3">
+    Content section 3
+  </section>
+</div>
+```
