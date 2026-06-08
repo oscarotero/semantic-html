@@ -23,7 +23,7 @@ Alternative version using a `figure` and `figcaption`:
 </figure>
 ```
 
-## Responsive tablee
+## Responsive table
 
 If we want to make the table scrollable, we can use a `div` to wrap the `table`.
 The `tabindex` is needed for keyboard navigation:
