@@ -8,6 +8,7 @@ Collection of semantic and accessible HTML patterns:
 - [Address](html/address.md)
 - [Breadcrumb](html/breadcrumb.md)
 - [Buttons](html/buttons.md)
+- [Charts](html/charts.md)
 - [Command line interfaces](html/cli.md)
 - [Contact](html/contact.md)
 - [Content changes](html/content-changes.md)
