@@ -36,6 +36,7 @@ Collection of semantic and accessible HTML patterns:
 - [Range input](html/range-input.md)
 - [Scalar values](html/scalar-values.md)
 - [Search](html/search.md)
+- [Table of contents](html/table-of-contents.md)
 - [Tables](html/tables.md)
 - [Tabs](html/tabs.md)
 - [Top bar](html/topbar.md)
