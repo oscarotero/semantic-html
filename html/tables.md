@@ -59,7 +59,9 @@ Alternative version inside a `<figure>`:
     aria-labelledby="caption"
     tabindex="0"
   >
-    <table><!-- Table markup --></table>
+    <table>
+      <!-- Table markup -->
+    </table>
   </div>
 </figure>
 ```

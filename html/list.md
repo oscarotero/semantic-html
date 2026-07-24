@@ -40,9 +40,9 @@ be added due the Safari behavior.
 
 ```html
 <style>
-  .no-style {
-    list-style: none;
-  }
+.no-style {
+  list-style: none;
+}
 </style>
 
 <ul class="no-style" role="list">

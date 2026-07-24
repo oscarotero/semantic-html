@@ -38,7 +38,7 @@ slogan.
     </div>
     …
   </main>
-<body>
+  <body>
 ```
 
 ---
