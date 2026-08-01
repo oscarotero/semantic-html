@@ -6,8 +6,10 @@ Collection of semantic and accessible HTML patterns:
 - [Abbreviations and acronyms](html/abbreviation.md)
 - [Accordion](html/accordion.md)
 - [Address](html/address.md)
+- [Alert](html/alert.md)
 - [Breadcrumb](html/breadcrumb.md)
 - [Buttons](html/buttons.md)
+- [Carousel](html/carousel.md)
 - [Charts](html/charts.md)
 - [Command line interfaces](html/cli.md)
 - [Contact](html/contact.md)
@@ -47,6 +49,7 @@ Useful links:
 
 - https://developer.mozilla.org/en-US/docs/Web/HTML/Attributes/autocomplete
 - https://www.htmhell.dev/adventcalendar/2023/8/
+- https://www.w3.org/WAI/ARIA/apg/patterns/
 
 ---
 
