@@ -9,6 +9,7 @@ Minimum html needed for any html page:
   <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="text-scale">
     <title>Page description | Site name</title>
   </head>
   <body>
@@ -35,6 +36,10 @@ Minimum html needed for any html page:
 ## `viewport` config
 
 - Make the web responsive, so it can ve viewed in a smartphone allowing zoom.
+
+## `text-scale` config
+
+- To make the text respect the user's text size preference. [More info](https://matuzo.at/blog/2026/text-scaling-meta-tag).
 
 ## `title` element
 
