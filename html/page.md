@@ -9,7 +9,7 @@ Minimum html needed for any html page:
   <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta name="text-scale">
+    <meta name="text-scale" content="scale">
     <title>Page description | Site name</title>
   </head>
   <body>
