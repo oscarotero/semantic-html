@@ -41,6 +41,7 @@ Collection of semantic and accessible HTML patterns:
 - [Table of contents](html/table-of-contents.md)
 - [Tables](html/tables.md)
 - [Tabs](html/tabs.md)
+- [Toast snackbar](html/snackbar.md)
 - [Top bar](html/topbar.md)
 
 ---
