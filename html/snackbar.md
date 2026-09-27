@@ -21,4 +21,4 @@ Component used to *reinforce* updates in the UI (like success or error messages)
 ---
 
 - [Alert component (USWDS)](https://designsystem.digital.gov/components/alert/)
-- [oast snackbar](https://www.atomica11y.com/accessible-web/toast-snackbar/)
+- [Toast snackbar](https://www.atomica11y.com/accessible-web/toast-snackbar/)
